@@ -1,0 +1,7 @@
+This Application contains two activities
+The main activity takes the list of places from the server and displays it as a list view on the screen
+If you click on one place you are directed to the second Activity to view the description of the selected place
+To remove the selected place click the "-" button on the menu bar
+To add a place enter all the place description values to be added in edit text field of each category and then press the "+" button. The place gets added to the server list and you can view the new added place in the MainActivity
+To simply browse and return to the main screen press the 'Back' button in the second screen
+To edit a place edit its category keeping same place name and press the "+" button
